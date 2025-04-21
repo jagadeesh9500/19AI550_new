@@ -84,11 +84,13 @@ using UnityEngine;
 ### Output:
 
 ## Initially player in air:
-<img width="850" alt="image" src="![Screenshot 2025-04-21 112850](https://github.com/user-attachments/assets/4a39a9d5-1750-47bc-bbe6-612a7b377001)
-" />
+![Screenshot 2025-04-21 112850](https://github.com/user-attachments/assets/002250ad-13a1-4514-bb5b-3143cee9aff2)
+
 
 ## After player jumped:
-<img width="850" alt="image" src="" />
+![Screenshot 2025-04-21 112928](https://github.com/user-attachments/assets/6c168f07-ddd3-48f0-aaf5-b2e7bb6fa33e)
+![Screenshot 2025-04-21 112947](https://github.com/user-attachments/assets/243fbe45-5922-4e5f-a15c-8dbeb237a8bf)
+
 
 
 
